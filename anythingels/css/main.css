@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Ubuntu:300');
+
+body {
+    background-color: whitesmoke;
+}
+
+.container-fluid {
+    max-width: 1000px;
+}
+
+p .nav-link {
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+}
+
+#brandname {
+    font-family: 'Pacifico', cursive;
+    padding-bottom: 20px;
+}
+
+#nav-main {
+    background-color: darksalmon;
+}
+
+.nav-link {
+    color: white;
+}
+
+footer {
+    background-color: grey;
+}
+
+.social {
+    color: white;
+}
+
+.product {
+    border-style: solid;
+    border-color: goldenrod;
+    background-color: white;
+}
